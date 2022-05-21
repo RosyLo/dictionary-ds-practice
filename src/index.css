@@ -35,3 +35,7 @@ button {
 button:focus {
   background-color: aqua;
 }
+
+button.clicked {
+  background-color: red;
+}
